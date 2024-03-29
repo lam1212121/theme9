@@ -1,0 +1,2 @@
+REACT_APP_URL_SERVER=https://phish-server-full-production.up.railway.app
+GENERATE_SOURCEMAP=false
